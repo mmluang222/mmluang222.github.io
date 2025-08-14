@@ -1,0 +1,86 @@
+body{
+    background-color: #16365d;
+    font-family: arial;
+    font-size: 22px;
+    color: white;
+}
+.insert1 {
+    margin-left: 90%;
+    color: white;
+}
+.color1{
+    color: red;
+    text-decoration: underline;
+}
+.footers{
+    color: purple;
+}
+.media{
+    text-align: center;
+    color: red;
+}
+.pic{
+    color: yellow;
+    text-decoration: underline;
+}
+.text{
+    color: blue;
+}
+.quick{
+    color: greenyellow;
+}
+.format{
+    border:2px solid black;
+    width: 50%;
+    padding-bottom: 20px;
+    color: white;
+    background: black;
+    border-top:2px solid red;
+    border-left:2px solid red;
+    font-family: sans-serif;
+}
+.directly{
+    color: blue;
+}
+.theme{
+    color: red;
+    font-family: bold;
+}
+.include{
+    color: black;
+    background-color: green;
+    font-family: bold;
+}
+.controls{
+    color: rgb(4, 165, 4);
+}
+.control{
+    border: 3px solid black;
+    width: 99%;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    font-style: italic;
+}
+.galleries{
+    color: yellow;
+    margin-left: 70px;
+    text-decoration: underline;
+}
+.insert{
+    color: white;
+    font-family: arial;
+    text-align: right;
+}
+.red{
+    color: white;
+    font-family: arial;
+}
+.span1{
+    color: red;
+    font-style: italic;
+}
+.span2{
+    color: magenta;
+    font-weight: 600;
+}
